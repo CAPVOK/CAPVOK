@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hello there!<br><br>Welcome to my GitHub profile! My name is Vladimir Kabanets, and I am a student at Bauman Moscow State Technical University, pursuing a degree in Information Processing and Control Systems (Specialization: IU5). I am passionate about technology, coding, and exploring innovative solutions.<br><br>Here, you will find a collection of my projects, experiments, and contributions to the world of software development. I believe in the power of collaboration and learning from others, so feel free to explore, contribute, or even reach out to me if you have any questions or ideas to share.<br><br>Together, let's embark on this coding journey, expand our knowledge, and make a positive impact in the world of technology!<br><br>Best regards,<br>Vladimir Kabanets
 
 
